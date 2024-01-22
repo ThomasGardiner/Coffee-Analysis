@@ -1,0 +1,2 @@
+##COFFEE PROJECT
+Today we are brewing up some fresh joe and getting into coffee data to look for valuable insights. This project explores trends, import/export, and sales patterns. We chose to use SQL to establish relationship between multiple coffee spreadsheets
